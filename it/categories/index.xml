@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Categoria - Sito Web di Seby Lillo</title>
+        <link>http://example.org/it/categories/</link>
+        <description>Categories - Categoria - Sito Web di Seby Lillo</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Mon, 16 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>review</title>
+    <link>http://example.org/it/categories/review/</link>
+    <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/categories/review/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>personal</title>
+    <link>http://example.org/it/categories/personal/</link>
+    <pubDate>Mon, 16 May 2022 00:17:20 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/categories/personal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

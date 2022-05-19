@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>personal - Category - Seby Lillo Website</title>
+        <link>http://example.org/categories/personal/</link>
+        <description>personal - Category - Seby Lillo Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 16 May 2022 00:17:20 &#43;0200</lastBuildDate><atom:link href="http://example.org/categories/personal/" rel="self" type="application/rss+xml" /><item>
+    <title>About me</title>
+    <link>http://example.org/posts/first_post/first_post/</link>
+    <pubDate>Mon, 16 May 2022 00:17:20 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/first_post/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/first_post/lofi-avatar.png" referrerpolicy="no-referrer">
+            </div>Who am I? I am Sebastiano Guzzone, aka Seby (Sebastiano is too long..), known by many as Lillo Barilotto, the bad but not too bad admin of many telegram groups dedicated to the &ldquo;Politecnico di Torino&rdquo;.
+Why this website?.. The truth is that today 2021-04-07 I didn’t feel like studying and I said to myself why not, let’s do it. WAIT THIS IS FALSE.
+Ok well&hellip; Today 2022-05-16 it&rsquo;s been a week since I got the coronavirus&hellip; So I decided to update the old site with a practically identical one .]]></description>
+</item>
+</channel>
+</rss>
