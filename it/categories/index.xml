@@ -3,7 +3,15 @@
         <title>Categories - Categoria - Sito Web di Seby Lillo</title>
         <link>http://example.org/it/categories/</link>
         <description>Categories - Categoria - Sito Web di Seby Lillo</description>
-        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Mon, 16 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Wed, 25 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>guide</title>
+    <link>http://example.org/it/categories/guide/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/categories/guide/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>review</title>
     <link>http://example.org/it/categories/review/</link>
     <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>

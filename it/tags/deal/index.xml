@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>deal - Etichetta - Sito Web di Seby Lillo</title>
+        <link>http://example.org/it/tags/deal/</link>
+        <description>deal - Etichetta - Sito Web di Seby Lillo</description>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Wed, 25 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/tags/deal/" rel="self" type="application/rss+xml" /><item>
+    <title>Guida all&#39;acquisto di un nuovo portatile</title>
+    <link>http://example.org/it/posts/guide_buy_pc/guide_buy_pc/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/posts/guide_buy_pc/guide_buy_pc/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/rev_matepad11/preview.jpg" referrerpolicy="no-referrer">
+            </div>Introduzione Disclaimer iniziale, non sono nessuno. Non ci capisco molto di informatica, sono un semplice appassionato che spesso si ritrova a dover consigliare un pc.Mi son detto, perchè non fare una piccola guida, non come una vecchia guida che feci ai tempi, per consigliare un po&rsquo; di categorie di pc e come riconoscere i pc.Contento io, contenti voi, cosi ogni volta non devo nemmeno aggiornare una guida con i migliori pc presenti sul mercato e i loro prezzi.]]></description>
+</item>
+</channel>
+</rss>

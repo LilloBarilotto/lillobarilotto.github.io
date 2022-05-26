@@ -3,7 +3,47 @@
         <title>Tags - Etichetta - Sito Web di Seby Lillo</title>
         <link>http://example.org/it/tags/</link>
         <description>Tags - Etichetta - Sito Web di Seby Lillo</description>
-        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Mon, 16 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Wed, 25 May 2022 00:20:21 &#43;0200</lastBuildDate><atom:link href="http://example.org/it/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>best</title>
+    <link>http://example.org/it/tags/best/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/tags/best/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>deal</title>
+    <link>http://example.org/it/tags/deal/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/tags/deal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>opinion</title>
+    <link>http://example.org/it/tags/opinion/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/tags/opinion/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>pc</title>
+    <link>http://example.org/it/tags/pc/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/tags/pc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>tech</title>
+    <link>http://example.org/it/tags/tech/</link>
+    <pubDate>Wed, 25 May 2022 00:20:21 &#43;0200</pubDate>
+    <author>Autore</author>
+    <guid>http://example.org/it/tags/tech/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>handwriting</title>
     <link>http://example.org/it/tags/handwriting/</link>
     <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>
@@ -36,51 +76,11 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>opinion</title>
-    <link>http://example.org/it/tags/opinion/</link>
-    <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>http://example.org/it/tags/opinion/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>tablet</title>
     <link>http://example.org/it/tags/tablet/</link>
     <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>
     <author>Autore</author>
     <guid>http://example.org/it/tags/tablet/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>tech</title>
-    <link>http://example.org/it/tags/tech/</link>
-    <pubDate>Mon, 16 May 2022 00:20:21 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>http://example.org/it/tags/tech/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>about</title>
-    <link>http://example.org/it/tags/about/</link>
-    <pubDate>Mon, 16 May 2022 00:17:20 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>http://example.org/it/tags/about/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>life</title>
-    <link>http://example.org/it/tags/life/</link>
-    <pubDate>Mon, 16 May 2022 00:17:20 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>http://example.org/it/tags/life/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>presentation</title>
-    <link>http://example.org/it/tags/presentation/</link>
-    <pubDate>Mon, 16 May 2022 00:17:20 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>http://example.org/it/tags/presentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

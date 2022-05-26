@@ -2,7 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/it/categories/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod><xhtml:link
+            <loc>http://example.org/it/tags/best/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/categories/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://example.org/categories/"
@@ -11,13 +12,12 @@
                     hreflang="it"
                     href="http://example.org/it/categories/"
                     /></url><url>
-            <loc>http://example.org/it/tags/handwriting/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/tags/harmonyos/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/tags/huawei/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/posts/rev_matepad11/rev_matepad11/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/tags/notes/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/tags/opinion/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/posts/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod><xhtml:link
+            <loc>http://example.org/it/tags/deal/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/posts/guide_buy_pc/guide_buy_pc/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/categories/guide/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/opinion/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/pc/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/posts/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://example.org/posts/"
@@ -26,8 +26,7 @@
                     hreflang="it"
                     href="http://example.org/it/posts/"
                     /></url><url>
-            <loc>http://example.org/it/categories/review/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod><xhtml:link
+            <loc>http://example.org/it/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://example.org/"
@@ -36,8 +35,7 @@
                     hreflang="it"
                     href="http://example.org/it/"
                     /></url><url>
-            <loc>http://example.org/it/tags/tablet/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/it/tags/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod><xhtml:link
+            <loc>http://example.org/it/tags/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://example.org/tags/"
@@ -46,7 +44,14 @@
                     hreflang="it"
                     href="http://example.org/it/tags/"
                     /></url><url>
-            <loc>http://example.org/it/tags/tech/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/tech/</loc><lastmod>2022-05-25T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/handwriting/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/harmonyos/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/huawei/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/posts/rev_matepad11/rev_matepad11/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/notes/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/categories/review/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
+            <loc>http://example.org/it/tags/tablet/</loc><lastmod>2022-05-16T00:20:21&#43;02:00</lastmod></url><url>
             <loc>http://example.org/it/tags/about/</loc><lastmod>2022-05-16T00:17:20&#43;02:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
